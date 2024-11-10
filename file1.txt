@@ -1,0 +1,2 @@
+Let's begin working with GIT training
+Some more text
